@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300;400;500;600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -31,32 +32,37 @@
     font-size: 72px;
     font-weight: 900;
 }
-.ben-offer{
+
+.ben-offer {
     text-align: center;
     padding-top: 120px;
 }
-.ben-l1{
+
+.ben-l1 {
     color: #F00;
     font-size: 88px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
 }
-.ben-l2{
+
+.ben-l2 {
     padding: 48px 0 0 0;
     color: #F00;
     font-size: 24px;
     font-weight: 500;
     font-family: 'Inter', sans-serif;
 }
-.ben-l3{
+
+.ben-l3 {
     padding-bottom: 48px;
     color: #070211;
     font-size: 48px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
 }
+
 /* party section  */
-.party{
+.party {
     margin: 120px 140px;
     width: 1320px;
     height: 600px;
@@ -64,28 +70,32 @@
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
 }
 
-.party-contain{
+.party-contain {
     padding-top: 70px;
     display: flex;
     align-items: center;
 }
-.party-content{
+
+.party-content {
     color: #FFF;
     margin-left: 126px;
 }
-.per-l1{
+
+.per-l1 {
     font-size: 64px;
     font-weight: 900;
     font-family: 'Merriweather Sans', sans-serif;
 }
-.per-l2{
+
+.per-l2 {
     color: rgba(255, 255, 255, 0.80);
     font-size: 18px;
     font-weight: 400;
     margin: 10px 0;
     font-family: 'Inter', sans-serif;
 }
-.per-button{
+
+.per-button {
     color: #FFF;
     padding: 15px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
@@ -95,32 +105,38 @@
     width: 700;
     font-family: 'Inter', sans-serif;
 }
+
 /* party location address  */
-.address{
+.address {
     margin: 0 140px;
     width: 1320px;
     height: 482px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     border-radius: 16px;
 }
-.party-location{
+
+.party-location {
     text-align: center;
     padding-top: 110px;
 }
-.party-location{
+
+.party-location {
     font-size: 32px;
     font-weight: 600;
     font-family: 'Inter', sans-serif;
     color: #070211;
     line-height: 56px;
 }
-.lo-r{
+
+.lo-r {
     color: #F00;
 }
-.lo-button{
+
+.lo-button {
     padding: 40px;
 }
-.lo-but{
+
+.lo-but {
     color: #FFF;
     padding: 16px 32px;
     border-radius: 8px;
@@ -128,4 +144,63 @@
     font-size: 20px;
     font-weight: 700;
     background: #F00;
+}
+
+/* start offer  */
+.offer {
+    margin: 0 140px;
+    width: 1320px;
+    height: 482px;
+}
+
+.all-offer {
+    display: flex;
+    align-items: center;
+}
+
+.offer1 {
+}
+
+.off-l1 {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+.off-l2 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.off-l3 {
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    width: 393px;
+}
+.offer2{
+    margin: 40px;
+    padding: 20px;
+    border: 15px solid #F00;
+    border-radius: 463px;
+}
+.offer2-img{
+    padding: 15px;
+}
+.offer3{
+    font-family: 'Inter', sans-serif;
+}
+.off3-l1{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+}
+.off3-l2{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 20px 0;
 }
