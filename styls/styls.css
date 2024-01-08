@@ -60,7 +60,7 @@
     margin: 50px 140px;
     width: 1320px;
     height: 600px;
-    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Vectorrr.png');
+    background: url('../images/Vectorrr.png');
     border-radius: 16px;
     display: flex;
     align-items: center;
