@@ -276,7 +276,7 @@
 
 /* portfolio section  */
 .portfolio {
-    margin: 130px 140px 120px  140px;
+    margin: 130px 140px 120px 140px;
 }
 
 .port-l1 {
@@ -302,4 +302,54 @@
     font-weight: 400;
     line-height: 32px;
     margin-bottom: 50px;
+}
+
+/* subscribe section  */
+.subscribe {
+    margin: 0px 140px 120px;
+    height: 620px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.sub-contain {
+    padding-top: 110px;
+    text-align: center;
+}
+
+.sub-l1 {
+    color: #070211;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 20px 0;
+}
+
+.sub-l2 {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.form {
+    max-width: 800px;
+    margin: 20px 0 0 350px;
+    display: flex;
+}
+.sub-form {
+    width: 500px;
+    padding: 22px;
+    border: 0;
+}
+
+.sub-button {
+    padding: 20px 25px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: 0;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
 }
