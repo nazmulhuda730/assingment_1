@@ -242,3 +242,28 @@
     font-weight: 500;
     line-height: 32px;
 }
+/* discount section  */
+.discount{
+    margin: 80px 140px;
+    width: 1320px;
+    height: 600px;
+}
+.discount-img{
+    align-items: center;
+    justify-content: space-between;
+}
+.dis-img1{
+    position: absolute;
+    left: 1030px;
+}
+.dis-img2{
+    position: absolute;
+    left: 850px;
+    margin-top: 55px;
+}
+.dis-img3{
+    position: absolute;
+}
+.dis-img4{
+    margin-top: 433px;
+}
