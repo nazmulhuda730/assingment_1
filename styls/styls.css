@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.benner {
+    margin: 50px 140px;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner-Image.png');
+}
+.benner-content{
+    text-align: center;
+    color: #FFF;
+    padding: 177px 344px;
+}
+.benner-text{
+    font-size: 32px;
+    font-weight: 400;
+}
+.benner-titel{
+    font-size: 72px;
+    font-weight: 900;
+}
+
