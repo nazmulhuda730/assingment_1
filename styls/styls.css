@@ -379,4 +379,21 @@
 }
 .con-a2{
     margin: 120px 291px 50px 0;
+} 
+.social-platform{
+    width: 1320px;
+    margin: 0 140px;
+    border-top: #434370 1px solid;
+    border-bottom: #434370 1px solid;
+    justify-content: center;
+}   
+.soc-img{
+    text-align: center;
+    padding: 45px;
 }    
+.soc-img2{
+    margin: 0 20px;
+}
+.soc-img3{
+    margin: 0 20px 0 0;
+}
