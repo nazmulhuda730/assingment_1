@@ -303,6 +303,16 @@
     line-height: 32px;
     margin-bottom: 50px;
 }
+.port-img{
+    width: 1320px;
+}
+.port-s1{
+    margin-bottom: 24px;
+}
+.port-s1 , .port-s2 {
+    display: flex;
+    justify-content: space-between;
+}
 
 /* subscribe section  */
 .subscribe {
@@ -399,7 +409,7 @@
 }
 /* unsubscribe section  */
 .unsubscribe{
-    margin: 50px 120px;
+    margin: 50px 140px;
     width: 1320px;
     justify-content: space-between;
     display: flex;
