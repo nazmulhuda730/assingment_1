@@ -24,7 +24,7 @@
     font-family: 'Merriweather Sans', sans-serif;
     font-size: 32px;
     font-weight: 400;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 .benner-titel {
@@ -46,7 +46,7 @@
 }
 
 .ben-l2 {
-    padding: 48px 0 0 0;
+    padding: 30px 0 0 0;
     color: #F00;
     font-size: 24px;
     font-weight: 500;
@@ -437,4 +437,7 @@
     font-family: 'Inter', sans-serif;
     font-size: 24px;
     font-weight: 500;
+}
+.unsub{
+    margin-right: 200px;
 }
