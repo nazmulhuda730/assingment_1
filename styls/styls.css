@@ -307,9 +307,12 @@
 /* subscribe section  */
 .subscribe {
     margin: 0px 140px 120px;
+    max-width: 1600px;
+    width: 1320px;
     height: 620px;
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
+    align-items: center;
 }
 
 .sub-contain {
@@ -338,6 +341,7 @@
     margin: 20px 0 0 350px;
     display: flex;
 }
+
 .sub-form {
     width: 500px;
     padding: 22px;
@@ -353,3 +357,26 @@
     font-size: 18px;
     font-weight: 600;
 }
+
+/* contact social section   */
+.contact-social {
+    height: 609px;
+    background-color: #070211;
+    ;
+}
+
+.contact-address {
+    display: flex;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    justify-content: space-between;
+}
+.con-a1{
+    margin: 120px 0 50px 140px;
+}
+.con-a2{
+    margin: 120px 291px 50px 0;
+}    
