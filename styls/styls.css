@@ -397,3 +397,14 @@
 .soc-img3{
     margin: 0 20px 0 0;
 }
+/* unsubscribe section  */
+.unsubscribe{
+    margin: 50px 120px;
+    width: 1320px;
+    justify-content: space-between;
+    display: flex;
+    color: #FFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
