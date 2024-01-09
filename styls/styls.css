@@ -276,6 +276,7 @@
 
 /* portfolio section  */
 .portfolio {
+    width: 1320px;
     margin: 130px 140px 120px 140px;
 }
 
@@ -302,9 +303,6 @@
     font-weight: 400;
     line-height: 32px;
     margin-bottom: 50px;
-}
-.port-img{
-    width: 1320px;
 }
 .port-s1{
     margin-bottom: 24px;
